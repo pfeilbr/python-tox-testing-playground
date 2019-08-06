@@ -12,3 +12,5 @@ learn python [tox](https://tox.readthedocs.io) that aims to automate and standar
 # run tox.  builds virtualenvs and runs tests.  see `tox.ini` for details
 tox
 ```
+
+![](https://www.evernote.com/l/AAGEHo01i_FLWr677ceJPAUBbVERvtC34bwB/image.png)
