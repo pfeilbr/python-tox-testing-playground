@@ -3,7 +3,7 @@
 learn python [tox](https://tox.readthedocs.io) that aims to automate and standardize testing in Python
 
 * sample [`mylib/`](mylib/) module (code in [`mylib/__init__.py`](mylib/__init__.py))
-* test(s) at [`mylib/tests/test_sample.py`](mylib/tests/test_sample.py) 
+* test(s) at [`mylib/tests/test_sample.py`](mylib/tests/test_sample.py)
 
 ## Running
 
@@ -14,3 +14,7 @@ tox
 ```
 
 ![](https://www.evernote.com/l/AAGEHo01i_FLWr677ceJPAUBbVERvtC34bwB/image.png)
+
+## Resources
+
+* [Python tox - Why You Should Use It and Tutorial](https://christophergs.com/python/2020/04/12/python-tox-why-use-it-and-tutorial/)
